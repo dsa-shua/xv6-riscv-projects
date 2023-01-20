@@ -1,0 +1,10 @@
+# xv6-riscv-projects
+xv6-riscv undergrad projects for EEE3535 Operating Systems (2022-Fall Semester)
+
+
+Projects:
+1) ps syscall
+2) real,sys,user time syscall
+3) custom shell program (ysh)
+4) MLFQ (3-Level,  non data structure) Scheduler
+5) Demand Paging
